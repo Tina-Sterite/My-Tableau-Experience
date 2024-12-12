@@ -6,8 +6,6 @@ As of the time of this repo creation I have worked with Tableau for 8 years.  My
 
 ### [My Tableau Public Profile](https://public.tableau.com/app/profile/tina.sterite7524/vizzes)
 
-<a href="https://public.tableau.com/app/profile/tina.sterite7524/vizzes" target="_blank">My Tableau Public Profile</a>
-
 #### [Greatfit Review Performance](https://public.tableau.com/app/profile/tina.sterite7524/viz/GreatfitReviewPerformance/GreatFitReviewDashboard)
 Project Summary: 
 
