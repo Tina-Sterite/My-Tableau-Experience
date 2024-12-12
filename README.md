@@ -4,8 +4,8 @@ This repository will be used to provide links and summaries of Tableau dashboard
 
 As of the time of this repo creation I have worked with Tableau for 8 years.  My data sources have been SQL written directly in Tableau using Oracle, Microsoft SQL Server, or IBM DB2 connectors (since this time I have also gained experience with PostgreSQL.)  Other data sources were Tableau data sources that I generated from Alteryx workflows.  I have extensive experience creating calculated fields of all kinds from simple to complex LOD calculations.  I've also used parameters extensively, including as part of the SQL to generate the data source, for example, if a report is for 2024, the parameter would contain 2024, and this parameter would be used in the SQL instead of hardcoding the year.  I've also done some interesting work with text tables (or data cards) and programmatically changing specific text color.  I'm looking forward to using my new Python knowledge within the Tableau space.
 
-### [My Tableau Public Profile](https://public.tableau.com/app/profile/tina.sterite7524/vizzes){:target="_blank"}
-
+### [My Tableau Public Profile](https://public.tableau.com/app/profile/tina.sterite7524/vizzes)
+<a href="[http://example.com/](https://public.tableau.com/app/profile/tina.sterite7524/vizzes)" target="_blank">My Tableau Public Profile</a>
 #### [Greatfit Review Performance](https://public.tableau.com/app/profile/tina.sterite7524/viz/GreatfitReviewPerformance/GreatFitReviewDashboard)
 Project Summary: 
 
