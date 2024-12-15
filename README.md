@@ -7,30 +7,29 @@ As of the time of this repo creation I have worked with Tableau for 8 years.  My
 ### [My Tableau Public Profile](https://public.tableau.com/app/profile/tina.sterite7524/vizzes)
 
 #### [Greatfit Review Performance](https://public.tableau.com/app/profile/tina.sterite7524/viz/GreatfitReviewPerformance/GreatFitReviewDashboard)
-Project Summary: 
+Project Summary: &nbsp;&nbsp;&nbsp;&nbsp;Greatfit's Customer Service manager wants visibility into insights from customer reviews. Positive vs negative reviews; reviews by division; do customer recommend their products; are there a lot of mentions of returns.
 
 Data: Excel File
 #### [Park City Peaks Hotel Performance](https://public.tableau.com/app/profile/tina.sterite7524/viz/ParkCityPeaksHotelPerformance_17332624380740/HotelBookingsDashboard)
-Project Summary: 
-
+Project Summary: &nbsp;&nbsp;&nbsp;&nbsp;Park City Peaks Hotel's manager would like to see month bookings and cancellations, repeat guests statistics, food options guests select, and are bookings generally singular travelers or family bookings.
 Data: Excel File
 #### [NVIDIA Investor Dashboard](https://public.tableau.com/app/profile/tina.sterite7524/viz/NVIDIAInvestorDashboard_17333487513390/NVIDIAInvestorDashboard)
-Project Summary: 
+Project Summary: &nbsp;&nbsp;&nbsp;&nbsp;NVIDIA investor dashboard to show most recent open & close price; % change between open & close price; volume traded per day and close price per day since January 1, 2023.
 
 Data: Connection to Google Sheets which uses GoogleFinance formula
-#### [Facebook Investor Dashboard](https://public.tableau.com/app/profile/tina.sterite7524/viz/FacebookInvestorDashboard_17333479352670/FacebookInvestorDashboard)
-Project Summary: 
+#### [Facebook (META) Investor Dashboard](https://public.tableau.com/app/profile/tina.sterite7524/viz/FacebookInvestorDashboard_17333479352670/FacebookInvestorDashboard)
+Project Summary: &nbsp;&nbsp;&nbsp;&nbsp;META investor dashboard to show most recent open & close price; % change between open & close price; volume traded per day and close price per day since January 1, 2023.
 
 Data: Connection to Google Sheets which uses GoogleFinance formula
 #### [Adventure Works Dashboard](https://public.tableau.com/app/profile/tina.sterite7524/viz/AdventureWorks_17334159365480/AdventureWorks)
-Project Summary:
+Project Summary: &nbsp;&nbsp;&nbsp;&nbsp;This Tableau story or presentation presents shipping stats - top cities shipped to and sales per city; sales stats - customer sales and top sales agents.
 
 Data: Connection to an Azure cloud server to a public database
 #### [Megamart Sales Performance](https://public.tableau.com/app/profile/tina.sterite7524/viz/MegamartSalesPerformance/MegamartSalesDashboard)
-Project Summary: 
+Project Summary: &nbsp;&nbsp;&nbsp;&nbsp;MegaMart's Sales manager needs a dashboard for monitoring selected sales agents performance by selected month. Total sales; quantity vs total sales for each product category; top 10 SKUs by total sales; top 5 product categories by total sales; the ability to input a target sales amount and see percent to target.
 
 Data: Excel Files
 #### [Olist Logistics Dashboard](https://public.tableau.com/app/profile/tina.sterite7524/viz/OlistLogisticsDashboard_17333512302560/OlistLogisticsDashboard)
-Project Summary:
+Project Summary: &nbsp;&nbsp;&nbsp;&nbsp;Olist Logistics manager is looking for a dashboard to show total orders and late deliveries per month; and total orders, total late deliveries, total outstanding deliveries; map of outstanding deliveries.
 
 Data: Excel Files
